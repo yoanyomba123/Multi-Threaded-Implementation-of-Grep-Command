@@ -1,0 +1,15 @@
+Tips to run th script automatically
+
+** To Compile
+   run: make
+
+1. To View Code
+   run: make view
+
+2. To Run Multi-Threaded Algorithmi (Searches for 'text' )
+   run: make run_threaded
+
+3. To Run Single Threaded Algorithm (Searches for 'text')
+   run: make run_single
+
+
